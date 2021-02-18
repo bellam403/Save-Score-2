@@ -1,5 +1,5 @@
 function back() {
-window.location = "https://bellam403.github.io/Save-Score-1/";
+window.location.replace("https://bellam403.github.io/Save-Score-1/");
 }
 
 function getScore()
